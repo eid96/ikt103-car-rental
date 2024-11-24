@@ -1,7 +1,7 @@
-Final project in Subject ikt-103 at UiA. A car-dealership application in QT
+** Final project in Subject ikt-103 at UiA. A car-dealership application in QT
 was created based in the following criteria 
-1: Add Cars
-2: Edit Cars
+1: Add Cars \\
+2: Edit Cars \\
 3: Remove Cars
 4: Add Customer
 5: Edit Customer
