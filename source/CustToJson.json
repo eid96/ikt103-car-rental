@@ -1,0 +1,51 @@
+[
+    {
+        "Email": "test1",
+        "FirstName": "test1",
+        "LastName": "test1",
+        "PhoneNumber": 1,
+        "SosSecNr": "1"
+    },
+    {
+        "Email": "Ola@Nordmann.no",
+        "FirstName": "Ola",
+        "LastName": "Nordmann",
+        "PhoneNumber": 1234567890,
+        "SosSecNr": "123456789"
+    },
+    {
+        "Email": "KatjaKaih@gmail.com",
+        "FirstName": "Katja",
+        "LastName": "Kai",
+        "PhoneNumber": 876543210,
+        "SosSecNr": "987654321"
+    },
+    {
+        "Email": "BenteBent@outlook.com",
+        "FirstName": "Bente",
+        "LastName": "Bent",
+        "PhoneNumber": 678901234,
+        "SosSecNr": "567890123"
+    },
+    {
+        "Email": "uia@uia.no",
+        "FirstName": "Universitetet",
+        "LastName": "Agder",
+        "PhoneNumber": 901234567,
+        "SosSecNr": "890123456"
+    },
+    {
+        "Email": "almost@done.com",
+        "FirstName": "Prosjekt",
+        "LastName": "Innspurt",
+        "PhoneNumber": 345678901,
+        "SosSecNr": "234567890"
+    },
+    {
+        "Email": "Summer@spring.com",
+        "FirstName": "Spring",
+        "LastName": "Summer",
+        "PhoneNumber": 345678911,
+        "SosSecNr": "234567891"
+    }
+]

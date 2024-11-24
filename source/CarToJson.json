@@ -1,0 +1,58 @@
+[
+    {
+        "Brand": "test1",
+        "COLOR": "test1",
+        "MODEL": "test1",
+        "ModelYear": 1,
+        "RegNr": "1"
+    },
+    {
+        "Brand": "test",
+        "COLOR": "test3",
+        "MODEL": "test2",
+        "ModelYear": 2,
+        "RegNr": "2"
+    },
+    {
+        "Brand": "Toyota",
+        "COLOR": "Silver",
+        "MODEL": "Yaris",
+        "ModelYear": 1999,
+        "RegNr": "AC1231"
+    },
+    {
+        "Brand": "Datson",
+        "COLOR": "Blue",
+        "MODEL": "Xtrail",
+        "ModelYear": 2021,
+        "RegNr": "DF1456"
+    },
+    {
+        "Brand": "Ford",
+        "COLOR": "Red",
+        "MODEL": "Focus",
+        "ModelYear": 2023,
+        "RegNr": "GH5789"
+    },
+    {
+        "Brand": "Lada",
+        "COLOR": "Black",
+        "MODEL": "Camaro",
+        "ModelYear": 2015,
+        "RegNr": "JK01254"
+    },
+    {
+        "Brand": "Ferrari",
+        "COLOR": "White",
+        "MODEL": "F10",
+        "ModelYear": 2022,
+        "RegNr": "MNO345"
+    },
+    {
+        "Brand": "BMW",
+        "COLOR": "Black",
+        "MODEL": "I3",
+        "ModelYear": 2023,
+        "RegNr": "EK2212"
+    }
+]

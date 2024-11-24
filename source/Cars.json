@@ -1,0 +1,47 @@
+{
+  "Cars": [
+    {
+      "RegNr": "AC1231",
+      "Brand": "Toyota",
+      "Model": "Yaris",
+      "Color": "Silver",
+      "ModelYear": 1999
+    },
+    {
+      "RegNr": "DF1456",
+      "Brand": "Datson",
+      "Model": "Xtrail",
+      "Color": "Blue",
+      "ModelYear": 2021
+    },
+    {
+      "RegNr": "GH5789",
+      "Brand": "Ford",
+      "Model": "Focus",
+      "Color": "Red",
+      "ModelYear": 2023
+    },
+    {
+      "RegNr": "JK01254",
+      "Brand": "Lada",
+      "Model": "Camaro",
+      "Color": "Black",
+      "ModelYear": 2015
+    },
+    {
+      "RegNr": "MNO345",
+      "Brand": "Ferrari",
+      "Model": "F10",
+      "Color": "White",
+      "ModelYear": 2022
+
+    },
+    {
+    "RegNr": "EK2212",
+    "Brand": "BMW",
+    "Model": "I3",
+    "Color": "Black",
+    "ModelYear": 2023
+    }
+  ]
+}

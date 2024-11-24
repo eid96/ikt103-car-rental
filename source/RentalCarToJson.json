@@ -1,0 +1,62 @@
+[
+    {
+        "LastName": "Nordmann",
+        "PhoneNumber": 1234567890,
+        "RegNr": "AC1231",
+        "RentID": 2,
+        "ReturnDate": "2023-05-05",
+        "SosSecNr": "123456789",
+        "StartDate": "2023-05-01",
+        "ValLicense": 1
+    },
+    {
+        "LastName": "Kai",
+        "PhoneNumber": 0,
+        "RegNr": "DF1456",
+        "RentID": 3,
+        "ReturnDate": "2023-06-15",
+        "SosSecNr": "987654321",
+        "StartDate": "2023-06-10",
+        "ValLicense": 1
+    },
+    {
+        "LastName": "Bent",
+        "PhoneNumber": 0,
+        "RegNr": "GH5789",
+        "RentID": 4,
+        "ReturnDate": "2023-07-25",
+        "SosSecNr": "567890123",
+        "StartDate": "2023-07-20",
+        "ValLicense": 1
+    },
+    {
+        "LastName": "Agder",
+        "PhoneNumber": 0,
+        "RegNr": "JK01254",
+        "RentID": 5,
+        "ReturnDate": "2023-08-10",
+        "SosSecNr": "890123456",
+        "StartDate": "2023-08-05",
+        "ValLicense": 1
+    },
+    {
+        "LastName": "Innspurt",
+        "PhoneNumber": 0,
+        "RegNr": "MNO345",
+        "RentID": 6,
+        "ReturnDate": "2023-09-20",
+        "SosSecNr": "234567890",
+        "StartDate": "2023-09-15",
+        "ValLicense": 1
+    },
+    {
+        "LastName": "Summer",
+        "PhoneNumber": 0,
+        "RegNr": "EK2212",
+        "RentID": 7,
+        "ReturnDate": "2023-10-05",
+        "SosSecNr": "234567891",
+        "StartDate": "2023-10-01",
+        "ValLicense": 1
+    }
+]

@@ -1,0 +1,67 @@
+{
+  "CarRental": [
+    {
+      "RentID": 2,
+      "SosSecNr": "123456789",
+      "LastName": "Nordmann",
+      "PhoneNumber": 1234567890,
+      "RegNr": "AC1231",
+      "StartDate": "2023-05-01",
+      "ReturnDate": "2023-05-05",
+      "ValLicense": true
+    },
+    {
+      "RentID": 3,
+      "SosSecNr": "987654321",
+      "LastName": "Kai",
+      "PhoneNumber": 9876543210,
+      "RegNr": "DF1456",
+      "StartDate": "2023-06-10",
+      "ReturnDate": "2023-06-15",
+      "ValLicense": true
+    },
+    {
+      "RentID": 4,
+      "SosSecNr": "567890123",
+      "LastName": "Bent",
+      "PhoneNumber": 5678901234,
+      "RegNr": "GH5789",
+      "StartDate": "2023-07-20",
+      "ReturnDate": "2023-07-25",
+      "ValLicense": true
+    },
+    {
+      "RentID": 5,
+      "SosSecNr": "890123456",
+      "LastName": "Agder",
+      "PhoneNumber": 8901234567,
+      "RegNr": "JK01254",
+      "StartDate": "2023-08-05",
+      "ReturnDate": "2023-08-10",
+      "ValLicense": true
+    },
+    {
+      "RentID": 6,
+      "SosSecNr": "234567890",
+      "LastName": "Innspurt",
+      "PhoneNumber": 2345678901,
+      "Brand": "Ferrari",
+      "RegNr": "MNO345",
+      "StartDate": "2023-09-15",
+      "ReturnDate": "2023-09-20",
+      "ValLicense": true
+    },
+    {
+      "RentID": 7,
+      "SosSecNr": "234567891",
+      "LastName": "Summer",
+      "PhoneNumber": 2345678911,
+      "RegNr": "EK2212",
+      "StartDate": "2023-10-01",
+      "ReturnDate": "2023-10-05",
+      "ValLicense": true
+    }
+  ]
+}
+
+

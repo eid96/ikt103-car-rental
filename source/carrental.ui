@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>CarRental</class>
+ <widget class="QDialog" name="CarRental">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1024</width>
+    <height>688</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTableView" name="tableView">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>10</y>
+     <width>561</width>
+     <height>191</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QTableView" name="Cust">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>220</y>
+     <width>561</width>
+     <height>191</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QTableView" name="Cars">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>430</y>
+     <width>561</width>
+     <height>191</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Loadtable">
+   <property name="geometry">
+    <rect>
+     <x>460</x>
+     <y>640</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Load Rented Cars</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>510</y>
+     <width>111</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Assign car</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Unnasign">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>580</y>
+     <width>111</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Unassign car</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="SosSecNr">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>40</y>
+     <width>141</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="LastName">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>90</y>
+     <width>141</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="PhoneNumber">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>140</y>
+     <width>141</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="RegNr">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>190</y>
+     <width>141</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QDateEdit" name="StartDate">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>350</y>
+     <width>141</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QDateEdit" name="ReturnDate">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>400</y>
+     <width>141</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="checkBox">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>310</y>
+     <width>151</width>
+     <height>18</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Valid License</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>200</y>
+     <width>61</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>RegNr</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>140</y>
+     <width>71</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Phone Nr</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>400</y>
+     <width>71</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Delivery date</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>90</y>
+     <width>71</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Last Name </string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>40</y>
+     <width>71</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>SosSecNr</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_6">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>360</y>
+     <width>71</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Start Date</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="SearchC">
+   <property name="geometry">
+    <rect>
+     <x>630</x>
+     <y>640</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Search customer</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="FindCar">
+   <property name="geometry">
+    <rect>
+     <x>810</x>
+     <y>640</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Find car</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="Brand">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>250</y>
+     <width>141</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_7">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>260</y>
+     <width>61</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Brand</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
